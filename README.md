@@ -8,4 +8,4 @@ GulpFile.js which contain all features of gulpjs used for development environmen
 
 ## Features includes 
 
-- Demo
+- Log Message
