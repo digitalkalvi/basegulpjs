@@ -1,0 +1,22 @@
+{
+  "name": "basegulpjs",
+  "version": "0.0.1",
+  "description": "GulpFile.js which contain all features of gruntjs used for development environment.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalkalvi/basegulpjs.git"
+  },
+  "keywords": [
+    "gulpjs"
+  ],
+  "author": "Vijayperumal Nadar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalkalvi/basegulpjs/issues"
+  },
+  "homepage": "https://github.com/digitalkalvi/basegulpjs#readme"
+}
