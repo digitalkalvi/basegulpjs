@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/digitalkalvi/basegulpjs/issues"
   },
-  "homepage": "https://github.com/digitalkalvi/basegulpjs#readme"
+  "homepage": "https://github.com/digitalkalvi/basegulpjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
